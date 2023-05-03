@@ -1,0 +1,40 @@
+body {
+	background: rgb(181, 107, 229);
+	background: linear-gradient(0deg, rgba(181, 107, 229, 1) 0%, rgba(234, 95, 95, 1) 50%, rgba(231, 175, 93, 1) 100%);
+	text-align: center;
+}
+
+span {
+	font-size: 22px;
+	color: white;
+	font-family: monospace;
+}
+
+canvas {
+	background: white;
+	border-radius: 20px;
+}
+
+button {
+	background-color: white;
+	width: 130px;
+	height: 40px;
+	font-size: 22px;
+	font-family: cursive;
+	border-radius: 10px;
+}
+
+button:hover {
+	background-color: rgb(212, 209, 209);
+	width: 150px;
+	height: 50px;
+}
+
+h1 {
+	font-family: fantasy;
+}
+
+h3{
+	font-family:monospace ;
+	font-size: 20px;
+}
